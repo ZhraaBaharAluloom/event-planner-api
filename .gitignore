@@ -1,3 +1,5 @@
+#database
+db/database.js
 # Logs
 logs
 *.log
@@ -42,8 +44,6 @@ node_modules/
 jspm_packages/
 
 
-#database
-db/database.js
 
 # TypeScript v1 declaration files
 typings/
