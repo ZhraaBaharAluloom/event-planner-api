@@ -1,0 +1,16 @@
+{
+  "name": "event-planner-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:ZhraaBaharAluloom/event-planner-api.git",
+  "author": "ZhraaBaharAluloom <alwarda@hotmail.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^6.1.8"
+  },
+
+  "scripts": {
+    "start": "nodemon"
+  }
+}
